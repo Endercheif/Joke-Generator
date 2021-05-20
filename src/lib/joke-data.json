@@ -1,0 +1,228 @@
+[
+  {
+    "setup": "Don't anger a programming wizard.",
+    "punchline": "They'll curse you, and every time you remove it, they'll just recurse.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Got a B in my computer programming class",
+    "punchline": "Call that a C++",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "My girlfriend told me I care more about my programming job than about her.",
+    "punchline": "I told her she is the #1 thing I care about.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Roses are Red\nViolets are Blue",
+    "punchline": "Unexpected ; at line 32",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I turned in my programming assignment",
+    "punchline": "Which came out to say \"Hello world!\". I received a C+. I walked up to my professor and said, \"Actually, this is C++\".",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I was blind, so my friend suggested me to learn programming.",
+    "punchline": "Now I CSharp.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Why are blind people so bad at programming?",
+    "punchline": "They can't C.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Once you stop doing functional programming...",
+    "punchline": "You never return",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "How do you make a computer say \"5\"?",
+    "punchline": "You’ll figure it out. It’s Programming Binary 101.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What was Hitler's favorite programming language?",
+    "punchline": "Not C.",
+    "category": "Programming",
+    "flags": {
+      "nsfw": true
+    }
+  },
+  {
+    "setup": "Programming is like sex.",
+    "punchline": "One mistake and you have to support it for the rest of your life.",
+    "category": "Programming",
+    "flags": {
+      "nsfw": true
+    }
+  },
+  {
+    "setup": "Why do most programmers use dark mode?",
+    "punchline": "Because the light attracts too many bugs",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What do programmers do when they're hungry?",
+    "punchline": "They grab a byte",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Why do programmers confuse Halloween and Christmas?",
+    "punchline": "Because Oct 31 = Dec 25",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "A programmer was arrested for writing unreadable code",
+    "punchline": "He refused to comment",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I wanted to be a better computer programmer so I decided to slowly improve my binary skills",
+    "punchline": "You could say I improved bit by bit",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "A C++ walks into a bar and sees a C. C is drunk, falling on the floor, spitting and swearing.",
+    "punchline": "How classless! – says C++.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What is an object-oriented way to become wealthy?",
+    "punchline": "Inheritance",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Two bytes meet, and one says:\nWow, you don’t look well. Are you ill?",
+    "punchline": "The other responds:\nNah, I’m just feeling a bit off.",
+    "category": "Programming",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I’m so bored that I just memorized six pages of the dictionary.",
+    "punchline": "I learned next to nothing.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Why did The Joker have to sleep with his lights on?",
+    "punchline": "Because he was afraid of the Dark Knight.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "We cannot allow this year to end,",
+    "punchline": "That would be admitting that 2021.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Scientists have discovered another deadly pathogen they are calling the Peekaboo virus.",
+    "punchline": "Doctors are sending anyone with peekaboo straight to ICU.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What’s the difference between jam and jelly?",
+    "punchline": "I have never been caught in a traffic jelly.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "My professor accused me of plagiarizing",
+    "punchline": "His words, not mine.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Finland have just closed their borders.",
+    "punchline": "Which means no one can cross the finish line.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I accidently sprayed deodorant in my mouth today.",
+    "punchline": "Now when I talk I have this weird axe scent.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What’s that Italian dessert called where you pour espresso coffee over ice cream?",
+    "punchline": "Everyone I ask can’t remember either.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "Justice is a dish best served cold",
+    "punchline": "If it were served warm it would be justwater.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What did Yoda say when he first saw himself in 4k?",
+    "punchline": "HDMI",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I always knock on the fridge before I open it.",
+    "punchline": "Just in case there’s a salad dressing.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "You don’t need a parachute to skydive.",
+    "punchline": "You need a parachute to skydive twice.",
+    "category": "General",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I told my therapist that I am having suicidal thoughts.",
+    "punchline": "He now makes me pay in advance.",
+    "category": "Dark",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "What’s the difference between Usain Bolt and Hitler?",
+    "punchline": "Usain Bolt can actually finish a race.",
+    "category": "Dark",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I decided to kill off some characters in the book I am writing",
+    "punchline": "It would definitely spice up my autobiography.",
+    "category": "Dark",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "A fortune teller told me I’d suffer awful heart break in 12 years.",
+    "punchline": "To cheer myself up I bought a puppy.",
+    "category": "Dark",
+    "flags": { "nsfw": false }
+  },
+  {
+    "setup": "I saw a girl crying, so I asked her “Where are your parents?” and she started crying even more.",
+    "punchline": "Man, I love working at the orphanage.",
+    "category": "Dark",
+    "flags": { "nsfw": false }
+  }
+]
