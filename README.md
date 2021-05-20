@@ -1,4 +1,4 @@
-# Joke Generator
+# The Jokebox
 
 To run locally,
 

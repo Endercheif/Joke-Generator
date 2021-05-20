@@ -2,8 +2,7 @@
   import { settings } from "./settings";
   const changeCategory = (e) => {
     let category = e.target.value;
-
-    settings.set({...$settings, category});
+    settings.set({ ...$settings, category });
   };
 </script>
 

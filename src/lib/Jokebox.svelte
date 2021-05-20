@@ -20,7 +20,6 @@
   const changeCategory = (e: { target: HTMLSelectElement }) => {
     const elem = e.target;
     const val = elem.value;
-    console.log(val);
   };
 </script>
 

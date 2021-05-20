@@ -1,6 +1,6 @@
 <script lang="ts">
   import Jokebox from "./lib/Jokebox.svelte";
-  import Settings from "./lib/Settings.svelte"
+  import Settings from "./lib/Settings.svelte";
 </script>
 
 <main>
